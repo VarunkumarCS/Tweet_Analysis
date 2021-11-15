@@ -1,0 +1,2 @@
+# Tweet_Analysis
+The goal of this mid-semester project is to work with Twitter API to analyze tweets from a person, and in this case, President Donald Trump. @RealDonaldTrump tweets provide a great opportunity to understand how online media can be used to communicate over the traditional media. Moreoover, Trump tweets has become so consequential, they actually can move the stock market on short term and get network TV to debate and discuss hours and hours about what Trump meant.
